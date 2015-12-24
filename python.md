@@ -2,6 +2,9 @@
 
 ### ヘッダコメント
 ```python
+#!/usr/bin/env python
+# coding: utf-8
+
 """
 説明文
 """
