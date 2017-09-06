@@ -3,7 +3,8 @@
 # Title.sh
 #
 # YYYY/MM/DD
-# Haruyuki Ichino
+# Haruyuki Ichino <mail@icchi.me>>
+# Version 0.0.1
 #
 # Description:
 # Contents
@@ -22,4 +23,3 @@ function catch() {
         echo "[ERROR]Fail in "$0
 }
 ```
-
