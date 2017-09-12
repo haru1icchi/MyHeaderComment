@@ -22,4 +22,8 @@ trap catch ERR
 function catch() {
         echo "[ERROR]Fail in "$0
 }
+
+
+# const
+SCRIPT_PATH=`dirname "${0}"`
 ```
