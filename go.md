@@ -5,6 +5,8 @@
 ## ヘッダコメント
 ```Golang
 /**
+ * Description
+ *
  * Author: Haruyuki Ichino <mail@icchi.me>
  * Version: 0.0.1
  * Date: 2015/12/24
@@ -28,7 +30,7 @@ func test(hoge string) {
 }
 ```
 
-## pydocの生成
+## godocの生成
 ```bash
 # $GOPATH配下のソースドキュメントを見る
 godoc -http=:6060
