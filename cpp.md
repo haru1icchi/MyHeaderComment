@@ -7,9 +7,9 @@ Doxygenを利用したコメント記述
 /*!
 * @file fname.c
 *
-* @date Created on: 2015/12/24
 * @author Author: Haruyuki Ichino
 * @version 1.0
+* @date Created on: 2015/12/24
 * @brief 説明文
 * @par 追加見出し項目
 */
