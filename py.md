@@ -15,6 +15,9 @@ __author__ = "Haruyuki Ichino <Mail Address>"
 __version__ = "0.0.1"
 __date__    = "2015/12/24"
 
+
+if __name__ == '__main__':
+
 ```
 
 ## クラス
