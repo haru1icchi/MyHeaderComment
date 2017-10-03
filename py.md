@@ -8,12 +8,16 @@
 # coding: utf-8
 
 """
+__doc__
 説明文
 """
 
 __author__ = "Haruyuki Ichino <Mail Address>"
 __version__ = "0.0.1"
 __date__    = "2015/12/24"
+
+
+print(__doc__))
 
 
 if __name__ == '__main__':
